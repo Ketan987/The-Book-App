@@ -1,4 +1,4 @@
-# The-book-app
+# The-Book-App
 
 ### The Book App build upon `AJAX`, `FETCH` and asynchronous concept in `NODEJS`.
 ### The whole application is on only one page without routing to another page in html.
